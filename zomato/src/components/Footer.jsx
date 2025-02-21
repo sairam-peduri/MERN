@@ -48,24 +48,8 @@ const Footer = () => {
         </div>
         <div class="cline">
             <div class="countryn">
-                
-                <a href="#" id="country">Australia</a>
-                <a href="#" id="country">Brazil</a>
-                <a href="#" id="country">Canada</a>
-                <a href="#" id="country">China</a>
-                <a href="#" id="country">France</a>
-                <a href="#" id="country">Germany</a>
-                <a href="#" id="country">Itlay</a>
-                <a href="#" id="country">Japan</a>
-                <a href="#" id="country">Mexico</a>
-                <a href="#" id="country">Netherlands</a>
-                <a href="#" id="country">Poland</a>
-                <a href="#" id="country">Singapore</a>
-                <a href="#" id="country">Spain</a>
-                <a href="#" id="country">Turkey</a>
-                <a href="#" id="country">United Arab Emirates</a>
-                <a href="#" id="country">United Kingdom</a>
-                <a href="#" id="country">United States</a>
+            <p style={{color:'white'}}>&copy; 2025 Dine_in</p>
+
             </div>
         </div>
     </footer>
