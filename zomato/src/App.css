@@ -10,7 +10,7 @@
 }
 
 .carousel-item{
-    background-color: rgb(227, 209, 251);
+    background-color: rgb(255, 235, 235);
 }
 
 body{
@@ -131,9 +131,8 @@ option{
 }
 
 .countryn{
-    background-color:black;
+    background-color:Black;
     overflow:auto;
-    float:inline-start;
     box-align:center;
     text-align:center;
 }
@@ -149,4 +148,12 @@ option{
 
 #country:hover{
     text-decoration: underline;
+}
+
+.navbar{
+    background-color: black;
+}
+
+.navlink.active{
+    color:white;
 }
